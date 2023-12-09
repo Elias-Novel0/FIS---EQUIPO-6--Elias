@@ -19,8 +19,7 @@ requerian que todos los integrantes del equipo estuvieran de acuerdo con la toma
 
 | Tarea                                                                                                             | Miembros                                         | Prioridad | Puntos |
 |-----------------------------------------------------------------------------------------------------------------------|--------------------------------------------------|-----------|--------|
-| __*Modificar los requisitos y funciones mínimas anteriormente creadas en la
-primera entrega para el primer prototipo.*__                                                                            |                                                  |           |        |
+| __*Modificar los requisitos y funciones mínimas anteriormente creadas en la primera entrega para el primer prototipo.*__|                                                  |           |        |
 | 1. Realizar una reunión para discutir las funciones que se habían planteado anteriormente.                            | Todos                                            | Alta      |   3    |
 | 2. Agregar, modificar o eliminar las funciones dentro de la app para agregarlo a la interfaz.                         | Alejandro                                        | Media     |   2    |
 | __*Establecer un entorno de diseño (FIGMA).*__                                                                        |                                                  |           |        |
